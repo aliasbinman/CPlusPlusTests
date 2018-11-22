@@ -3,7 +3,7 @@
 
 
 
-// Given a a number in variable "a: return true if the number is prime
+// Given a number in variable "a" return true if the number is prime
 
 bool IsPrime(int a)
 {

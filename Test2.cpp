@@ -3,7 +3,7 @@
 
 
 
-// Given a a number is variable a return true if the number is negative or not
+// Given a number in variable "a"  return true if the number is negative or not
 
 bool IsNegative(int a)
 {
